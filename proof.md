@@ -39,7 +39,7 @@ The automaton of scholarly states (or ASS for short):
 <summary> automaton of scholarly states </summary>
 <img title="omnomchomsky" alt="i read graphviz documentation for this" src="romo.dot.svg">
   
-<! -- ![i want you to know i read graphviz documentation for this](romo.dot.svg "omnomchomsky") ->
+<!-- ![i want you to know i read graphviz documentation for this](romo.dot.svg "omnomchomsky") -->
 </details>
   
 The implications are immediately obvious.  
