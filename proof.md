@@ -42,11 +42,11 @@ The automaton of scholarly states (or ASS for short):
 <!-- ![i want you to know i read graphviz documentation for this](graph.svg "omnomchomsky") -->
 </details>
   
-The implications are immediately obvious.  
+The implications are immediately obvious, and a reduced graph has been included for the reader's convenience.  
 <details>
-<summary> click me ?? </summary>
-` press to simplify `    
-</details>
+<summary> Simplified state machine </summary>
+<img title="the alphabet" alt="and then i failed mfcs" src="fsa.svg">
+</details>  
 
 In fact, this automaton not only accepts JACK's current literary intake but also all future reading he will ever do.  
 As such, JACK's entire academic career has been encoded into this ASS.  

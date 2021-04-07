@@ -1,0 +1,18 @@
+
+digraph academic_neural_net {
+	graph [rankdir=LR,
+		size="10,10"
+	];
+	node [style=rounded,shape=ellipse] birth childhood adolescence university adulthood;
+	node [shape=note] weird_shit;
+
+	node [shape=doublecircle] peace;
+
+  birth -> childhood [label="O"];
+	childhood -> adolescence [label="H"];
+	adolescence -> university [label=" "];
+	university -> adulthood [label="N"];
+	adulthood -> adulthood [label="O"];
+	weird_shit -> weird_shit [label="this mortal coil"];
+	{birth, childhood, adolescence, university, adulthood} -> weird_shit;
+}

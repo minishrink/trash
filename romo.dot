@@ -2,15 +2,15 @@ digraph academic_neural_net {
 	graph [rankdir=LR,
 		size="10,10"
 	];
-	node [shape=doublecircle];
+	node [style=rounded,shape=ellipse];
 	Jack	 [shape=star];
-	Sam	 [shape=circle];
-	Graham_unfortunately	 [shape=circle];
-	Graham_again_somehow	 [shape=circle];
-	<unintelligible_screams_0xdeadb00b>	 [shape=circle];
-	Tom	 [shape=circle];
-	Agathe	 [shape=circle];
-	Detlef	 [shape=circle];
+	Sam	 [shape=ellipse];
+	Graham_unfortunately	 [shape=ellipse];
+	Graham_again_somehow	 [shape=ellipse];
+	<unintelligible_screams_0xdeadb00b>	 [shape=ellipse];
+	Tom	 [shape=ellipse];
+	Agathe	 [shape=ellipse];
+	Detlef	 [shape=ellipse];
 
 	Jack -> Sam	   [label="love 2 include u in all the friend groups"];
 	Jack -> Sam	   [label="i told u im the normal one"];
