@@ -37,9 +37,9 @@ We must then construct a finite state automaton to accept the language encoded i
 The automaton of scholarly states (or ASS for short):  
 <details>
 <summary> automaton of scholarly states </summary>
-<img title="omnomchomsky" alt="i read graphviz documentation for this" src="romo.svg">
+<img title="omnomchomsky" alt="i read graphviz documentation for this" src="graph.svg">
   
-<!-- ![i want you to know i read graphviz documentation for this](romo.svg "omnomchomsky") -->
+<!-- ![i want you to know i read graphviz documentation for this](graph.svg "omnomchomsky") -->
 </details>
   
 The implications are immediately obvious.  
