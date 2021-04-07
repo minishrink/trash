@@ -5,42 +5,54 @@ digraph academic_neural_net {
 	node [shape=doublecircle];
 	Jack	 [shape=star];
 	Sam	 [shape=circle];
-	Jack -> Sam	 [label="love 2 include u in all the friend groups"];
-	Jack -> Sam	 [label="i told u im the normal one"];
 	Graham_unfortunately	 [shape=circle];
-	Jack -> Graham_unfortunately	 [label="an evening of graph lectures! what could possibly go wrong?!"];
 	Graham_again_somehow	 [shape=circle];
-	Jack -> Graham_again_somehow	 [label="...i deserve this. i chose this."];
-	Agathe	 [shape=circle];
-	Jack -> Agathe	 [label="so there i was, knuckle-deep in Gödel, Escher, and also Bach, when all of a sudden..."];
-	Sam -> Agathe    [label="this is why i keep telling people not to study maths!"]
 	<unintelligible_screams_0xdeadb00b>	 [shape=circle];
-	Jack -> <unintelligible_screams_0xdeadb00b>	 [label="oh god fuck why are you like this and when will you stop"];
 	Tom	 [shape=circle];
-	Jack -> Tom	 [label="thank u 4 being normal despite doing the same degree"];
+	Agathe	 [shape=circle];
 	Detlef	 [shape=circle];
-	Jack -> Detlef	 [label="i can no longer bear to suck this gp2"];
+
+	Jack -> Sam	   [label="love 2 include u in all the friend groups"];
+	Jack -> Sam	   [label="i told u im the normal one"];
+	Jack -> Graham_unfortunately	 [label="an evening of graph lectures! what could possibly go wrong?!"];
+	Jack -> Graham_again_somehow	 [label="...i deserve this. i chose this."];
+	Jack -> Agathe [label="so there i was, knuckle-deep in Gödel, Escher, and also Bach, when all of a sudden..."];
+	Jack -> <unintelligible_screams_0xdeadb00b>	 [label="oh god fuck why are you like this and when will you stop"];
+	Jack -> Tom	   [label="thank u 4 being normal despite doing the same degree"];
+	Jack -> Detlef [label="i can no longer bear to suck this gp2"];
 	Jack -> Pooh	 [label="such precious. much floof. abso - FUUUUUUUUUCK"];
-	Sam -> Jack	 [label="i am begging you to get a hobby"];
-	Sam -> Jack	 [label="you wouldn't get this self help book because you're not gay. sorry"];
-	Graham_unfortunately -> Jack	 [label=gbkshakegooseshitemotherfukerdropkickbooooooitaxevasiongraphgrammar];
+
+	Sam -> Jack	   [label="you wouldn't get this self help book because you're not gay. sorry"];
+	Sam -> Agathe  [label="this is why i keep telling people not to study maths!"];
+	Sam -> Sam     [label="they cannot hurt me if i sit here and craft toebeans"];
+	Sam -> <unintelligible_screams_0xdeadb00b> [label="please. i am begging you to seek help, and also turn off front-facing camera"]
+
+	Graham_unfortunately -> Jack	 [label=gbkshakegooseshitemotherfukerdropkickboooooooooiiiiiiicurryshitpantstaxevasiongraphgrammarcreosotetrololololgetrekt];
 	Graham_unfortunately -> Graham_unfortunately	 [label=luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuut];
 	Graham_unfortunately -> Graham_again_somehow	 [label="mmmm, mirchiz..."];
 	Graham_unfortunately -> <unintelligible_screams_0xdeadb00b>	 [label="what if i encouraged ur worst aspects haha jklol... unless???"];
 	Graham_unfortunately -> Detlef	 [label="me too wtf??"];
+
 	Graham_again_somehow -> Jack	 [label="pls turn to page 9928424 of my invoice for your share of the bills"];
 	Graham_again_somehow -> Graham_unfortunately	 [label=trololololololololololololololololololololol];
 	Graham_again_somehow -> Graham_again_somehow	 [label="where do i end? where does slackbot begin? god, when do i end?"];
 	Agathe -> Jack	 [label="is someone cutting octonions? ah non, c’est rien, je suis juste en train de pleurer."];
 	Agathe -> Graham_unfortunately	 [label="i used to speak decent english :( "];
 	Agathe -> Graham_again_somehow	 [label="how do i make toaster go brr"];
-	<unintelligible_screams_0xdeadb00b> -> Jack	 [label="never, son"];
+
+	<unintelligible_screams_0xdeadb00b> -> Jack	 [label="could u please clearly and concisely state your name, existence, and academic interests in the next te - aaaand time's up"];
 	<unintelligible_screams_0xdeadb00b> -> Graham_again_somehow	 [label="i would kill u if not for the laws of this land"];
-	<unintelligible_screams_0xdeadb00b> -> <unintelligible_screams_0xdeadb00b>	 [label="its all over for u hoes once i start showering, exercising regularly, not eating my bodyweight in pr0ngle, waking up in the morning, \
-character limit exceeded"];
-	Tom -> Jack	 [label="I deserve better than this. I could have paired up with anyone else for ICAR."];
+	<unintelligible_screams_0xdeadb00b> -> <unintelligible_screams_0xdeadb00b>	 [label="its all over for u hoes once i start showering, exercising regularly, not eating my bodyweight in pr0ngle, waking up in the morning, not lickCHARACTER LIMIT EXCEEDED"];
+
+	Tom -> Graham_unfortunately	 [label="I deserve better than this."];
+	Tom -> Jack [label="did we even need to have partners for ICAR??"];
+	Tom -> Graham_again_somehow [label="of course bash is a functional language!"];
 	Tom -> <unintelligible_screams_0xdeadb00b>	 [label="...actually never mind"];
+	Tom -> Tom [label="this restaurant, while pleasant, lured me under false pretences. no slugs nor lettuces found, 0/10"]
+
 	Detlef -> Jack	 [label="it's nice that you're indulging in some extracurricular activities but I DO have a gp2 to finish you know..."];
 	Detlef -> Graham_unfortunately	 [label="i thought you were dead"];
+	Detlef -> <unintelligible_screams_0xdeadb00b> [label="please leave this classroom and higher learning institution immediately"];
+
 	Pooh -> Jack	 [label="<immediately claws out eyeballs>"];
 }
