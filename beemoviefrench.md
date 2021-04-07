@@ -22,13 +22,29 @@ Voici le diplômé.
 Nous sommes très fiers de toi, mon fils.  
 Une carte de rapport parfaite, tous les B's.  
 Très fier.  
-Ma! J'ai une chose qui se passe ici. - Tu as de la peluche sur ton peluche.  
-Ow! C'est moi! - Viens nous voir! Nous serons dans la rangée 118,00. -Au revoir! Barry, je t'ai dit d'arrêter de voler dans la maison! -Hey Adam. -Hey Barry. - C'est du gel? -Un peu.  
+"Ma! J'ai une chose qui se passe ici."  
+"Tu as de la peluche sur ton peluche."  
+"Ow! C'est moi!"  
+"Viens nous voir! Nous serons dans la rangée 118,00."  
+"Au revoir! Barry, je t'ai dit d'arrêter de voler dans la maison!"  
+"Hey Adam."  
+"Hey Barry."  
+"C'est du gel?"  
+"Un peu."  
+  
 Journée spéciale, graduation.  
 Jamais pensé que je le ferais. 3 jours d'école primaire, 3 jours d'école secondaire.  
 C'était maladroit. 3 jours collège.  
 Je suis content d'avoir pris une journée et fait de l'auto-stop dans la ruche.  
-Vous êtes revenu autrement. -Hi Barry. -Artie, en train de pousser une moustache? Cela semble bon. - Pourquoi Frankie? -Ouais. - Tu vas aux funérailles? - Non, je ne vais pas.  
+Vous êtes revenu autrement.    
+
+"Hi Barry."  
+"Artie, en train de pousser une moustache? Cela semble bon."  
+"Pourquoi Frankie?"  
+"Ouais."  
+"Tu vas aux funérailles?"  
+"Non, je ne vais pas."    
+
 Tout le monde sait, piquer quelqu'un, vous mourez.  
 Ne le perdez pas sur un écureuil.  
 Une telle tête brûlante.  
