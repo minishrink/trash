@@ -50,7 +50,7 @@ The implications are immediately obvious, and a reduced graph has been included 
 
 In fact, this automaton not only accepts JACK's current literary intake but also all future reading he will ever do.  
 As such, JACK's entire academic career has been encoded into this ASS.  
-We have included an [example excerpt here](beemoviefrench.md).  
+We have included an [example excerpt here](futuremathspaper.md).    
 
-
+**TBC** oh god do not let me forget to finish this    
 
