@@ -1,0 +1,33 @@
+digraph academic_neural_net {
+	graph [rankdir=LR,
+		size="10,10"
+	];
+	node [shape=star];
+	Sam	 [shape=circle];
+	Sam -> Jack	 [label="you wouldn't get this self help book because you're not gay. sorry"];
+	Jack -> Sam	 [label="love 2 include u in all the friend groups"];
+	Agathe	 [shape=circle];
+	Jack -> Agathe	 [label="so there i was, knuckle-deep in Gödel, Escher, and also Bach, when all of a sudden..."];
+	Detlef	 [shape=circle];
+	Jack -> Detlef	 [label="i can no longer bear to suck this gp2"];
+	Pooh	 [shape=circle];
+	Jack -> Pooh	 [label="such precious. much floof. abso - FUUUUUUUUUCK"];
+	Tom	 [shape=circle];
+	Jack -> Tom	 [label="thank u 4 being normal despite doing the same degree"];
+	<unintelligible_screams_0xdeadb00b>	 [shape=circle];
+	Jack -> <unintelligible_screams_0xdeadb00b>	 [label="oh god fuck why are you like this and when will you stop"];
+	Graham_unfortunately	 [shape=circle];
+	Jack -> Graham_unfortunately	 [label="an evening of graph lectures! what could possibly go wrong?!"];
+	Graham_again_somehow	 [shape=circle];
+	Jack -> Graham_again_somehow	 [label="...i deserve this. i chose this."];
+	Agathe -> Jack	 [label="is someone cutting octonions? ah non, c’est rien, je suis juste en train de pleurer."];
+	Detlef -> Jack	 [label="it's nice that you're indulging in some extracurricular activities but I DO have a gp2 to finish you know..."];
+	Pooh -> Jack	 [label="<immediately claws out eyeballs>"];
+	Tom -> Jack	 [label="I deserve better than this. I could have paired up with anyone else for ICAR."];
+	Tom -> <unintelligible_screams_0xdeadb00b>	 [label="...actually never mind"];
+	<unintelligible_screams_0xdeadb00b> -> Jack	 [label="never, son"];
+	<unintelligible_screams_0xdeadb00b> -> Graham_again_somehow	 [label="i would kill u if not for the laws of this land"];
+	Graham_unfortunately -> Jack	 [label=gbkshakegooseshitemotherfukerdropkickbooooooitaxevasiongraphgrammar];
+	Graham_unfortunately -> Graham_again_somehow	 [label="mmmm, mirchiz..."];
+	Graham_again_somehow -> Jack	 [label="pls turn to page 9928424 of my invoice for your share of the bills"];
+}
