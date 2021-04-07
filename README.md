@@ -1,5 +1,7 @@
 
 # CARD
+    
+---
 
 ## Definition:
   
@@ -19,6 +21,7 @@ Then the entity known as JACK has been defined.
 We define JACK as a category `Cat(J)`, whose objects are the pages of the many books he reads.  
 The morphisms between them are described as below:    
 
+---
 
 The algebra of the Octonions **O** is a vector space of dimension 8 over **R**.  
 Moreover, `8 * 3 = 24`    
@@ -32,15 +35,22 @@ reveals JACK was only capable of understanding life through Minecraft constructi
 
 We must then construct a finite state automaton to accept the language encoded into his psyche, given below:  
 The automaton of scholarly states (or ASS for short):  
-` insert FSM here `    
-
+<details>
+<summary> automaton of scholarly states </summary>
+<img title="omnomchomsky" alt="i read graphviz documentation for this" src="romo.dot.svg">
+  
+![i want you to know i read graphviz documentation for this](romo.dot.svg "omnomchomsky")
+</details>
+  
 The implications are immediately obvious.  
+<details>
+<summary> click me ?? </summary>
 ` press to simplify `    
+</details>
 
 In fact, this automaton not only accepts JACK's current literary intake but also all future reading he will ever do.  
 As such, JACK's entire academic career has been encoded into this ASS.  
-We have included an example output below:  
-` insert bee movie script in French here `  
+We have included an [example excerpt here](beemoviefrench.md).  
 
 
 
