@@ -49,10 +49,8 @@ so we denote this property of no god **N** for *no god*.
 Using the [most sophisticated lexical analysis](http://jackromo.com/2019/Improving-the-GP2-Compiler.pdf) devised,
 we apply transformation **T**
 (the highest known grade achieved for [any PhD thesis](http://etheses.whiterose.ac.uk/12586/))
-to yield  
-
-`CUNT`.  
-Employ a little quantum decryption:  
+to yield: `CUNT`.  
+Employing a little quantum decryption:  
 `CUNT mod 69 === JACK`.  
 Then the entity known as JACK has been defined.  
 </details>    
