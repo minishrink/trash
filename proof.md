@@ -1,34 +1,30 @@
 
-# CARD
+# Romo Considered Harmful
     
 ---
   
 ## Abstract
 
 It is self-evident that, given a space of sufficient dimension
-such that there exists both a library and fatfucking facilities,  
-there will necessarily exist a [[cryptid]] living in these facilities,
-shunning sunlight, and subsisting off algebraic texts [1].
+such that there exists both a library and fatfucking facilities,
+we can prove the existence and presence of a cryptid **C** living in these facilities,
+shunning sunlight, and subsisting off algebraic texts <sup>[1](#bibliography)</sup>.
   
 
-In this paper, we prove the existence of such a creature and define it as a category,  
-using the [Fåt-Bastærde functor](https://www.fatbastard.com/product/chardonnay/) to map it to a representation  
-of the cosmic unfairness of a world that would not only allow but necessitate such a wretched creature exist at all.  
+In this paper, we use [sophisticated graph transformations](http://www.jflap.org/)
+using the [Fåt-Bastærde lemma](https://www.fatbastard.com/product/chardonnay/)
+to map it to a universe **U** which not only enables but also rewards the existence of
+[garbage confluent objects](https://gjcampbell.co.uk)<sup>[2](#bibliography)</sup>.  
   
 
-Surprising results about the nature of the beast will be explored,  
-finishing off with wise words from a former acquaintance, and suggestions for how to forcibly terminate this fuck.
+Exploratory results about the nature of the beast will be presented,
+finishing with proposed strategies for its immediate termination.
       
-Special thanks to the Graph Transformation Department at the University of York [3] and the LaTeX Division  
-of the now-defunct Leeds office of Imagination Technologies for funding and empowering this research,  
+Special thanks to the Graph Transformation Department at the University of York [3] and the LaTeX Division
+of the now-defunct Leeds office of Imagination Technologies for funding and empowering this research,
 in return requesting only that no one involved ever return to either city.  
     
-## Methodology
-We analysed trends in local cheese consumption, records of eldritch algebaraic texts disappearing,  
-and rumours of dark fantasy explorations and potential discordian rites being performed late into the night.  
-All
-No animals were harmed in the course of this study, 
-though all colleagues involved in peer-review reported receiving 2d4 psychic damage.  
+---
     
 ## Background: Category Theory
 <details>
@@ -47,21 +43,18 @@ Now you have a master's in category theory.
 <details>
 <summary>Definition</summary>
   
-Under the standard model, we consider four fundamental interactions between matter:  
-
-
-Let **C** be a collection of particles, neuroses, obscure samurai lore, and math books.  
-Consider a universe **U** which not only allows trash confluence object Graham [2] to exist
-but rewards him for his expensive hobby of drawing graphs.  
-It is immediately clear this universe has the godless property, signified by **N** for no god.  
+Recall the category **C** of cryptids and their morphisms.
+It is immediately clear that any such accommodating universe **U** has property **N** for *no god*.
+A concatenation of this category **C** 
 Finally, we take the highest alphabetical grade achieved in GRAT, which is **T**, and we have  
 `CUNT`.  Applying a cryptographic transformation yields  
 `CUNT mod 69 === JACK`.  
 Then the entity known as JACK has been defined.  
 </details>    
-
-## Some surprising results
-
+  
+---
+  
+  
 ## Theorem: JACK is 24 years old
     
 ## Proof:
@@ -87,24 +80,38 @@ The automaton of scholarly states (or ASS for short):
 <summary> automaton of scholarly states </summary>
 <img title="omnomchomsky" alt="i read graphviz documentation for this" src="graph.svg">
   
-<!-- ![i want you to know i read graphviz documentation for this](graph.svg "omnomchomsky") -->
 </details>
   
-The implications are immediately obvious.  
-A reduced graph resulting from row echelon reduction has nevertheless been included for the reader's convenience.  
+The implications are immediately obvious.
+A reduced graph resulting from row echelon reduction has nevertheless been included for the reader's convenience.
   
 <details>
 <summary> Simplified state machine </summary>
 <img title="the alphabet" alt="and then i failed mfcs" src="fsa.svg">
 </details>  
 
-In fact, this automaton not only accepts JACK's current literary intake but also all future reading he will ever do.  
+In fact, this automaton not only accepts JACK's current literary intake but also all future reading he will ever do.
 As such, JACK's entire academic career has been encoded into this ASS.  
 We have included an [example excerpt here](futuremathspaper.md).    
 
 **TBC** oh god do not let me forget to finish this    
   
   
+---
+
+    
+## Methodology
+We gathered data from the University of York, University of Oxford,
+and all local Wetherspoons and McDonalds establishments.
+Analysis focused on trneds in local cheese consumption, records of eldritch algebaraic texts disappearing, 
+and reports of cringe being observed late into the night.  
+
+Experiments were conducted in various forms of inebriation in order to control for bias.
+No animals were harmed in the course of this study, 
+though all colleagues involved in peer-review reported receiving 2d4 psychic damage.  
+    
+    
+---
 
 ## Bibliography
 
