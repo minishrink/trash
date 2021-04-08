@@ -8,7 +8,7 @@
 It is self-evident that, given a space of sufficient dimension
 such that there exists both a library and fatfucking facilities,  
 there will necessarily exist a [[cryptid]] living in these facilities,
-shunning sunlight, and subsisting off algebraic texts.  
+shunning sunlight, and subsisting off algebraic texts [1].
   
 
 In this paper, we hypothesise the existence of such a creature by encapsulating this entity in a category,  
@@ -19,7 +19,7 @@ and the cosmic unfairness of a world that would not only allow but necessitate s
 Surprising results about the nature of the beast will be explored,  
 finishing off with wise words from a former acquaintance, and suggestions for how to forcibly terminate this fuck.
       
-Special thanks to the Graph Transformation Department at the University of York and the LaTeX Division  
+Special thanks to the Graph Transformation Department at the University of York [3] and the LaTeX Division  
 of the now-defunct Leeds office of Imagination Technologies for funding and empowering this research,  
 in return requesting only that no one involved ever return to either city.    
 
@@ -43,7 +43,7 @@ Under the standard model, we consider four fundamental interactions between matt
 
 
 Let **C** be a collection of particles, neuroses, obscure samurai lore, and math books.  
-Consider a universe **U** which not only allows trash confluence object Graham to exist
+Consider a universe **U** which not only allows trash confluence object Graham [2] to exist
 but rewards him for his expensive hobby of drawing graphs.  
 It is immediately clear this universe has the godless property, signified by **N** for no god.  
 Finally, we take the highest alphabetical grade achieved in GRAT, which is **T**, and we have  
@@ -95,6 +95,12 @@ We have included an [example excerpt here](futuremathspaper.md).
 **TBC** oh god do not let me forget to finish this    
   
   
-  
-  
+
 ## Bibliography
+
+[1] Mathematics. 2021. Mathematics - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Mathematics> [Accessed 8 April 2021].
+
+[2] Graham Campbell. 1997. [online] Available at: <https://memetrash.co.uk/> [Accessed 13 May 1997].
+
+[3] Detlef Plump. 10BC [online] Available at: <https://www-users.cs.york.ac.uk/det/> [Accessed constantly].
+
