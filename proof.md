@@ -3,10 +3,36 @@
     
 ---
 
+## Abstract
+
+It is self-evident that, given a space of sufficient dimension
+such that there exists both a library and fatfucking facilities,  
+there will necessarily exist a [[cryptid]] living in these facilities,
+shunning sunlight, and subsisting off algebraic texts.  
+  
+
+In this paper, we hypothesise the existence of such a creature by encapsulating this entity in a category,  
+using the Phat-Bastarde<sub>[i](#link)</sub> lemma to define morphisms between this category  
+and the cosmic unfairness of a world that would not only allow but necessitate such a wretched creature exist at all.  
+  
+
+Surprising results about the nature of the beast will be explored,  
+finishing off with wise words from a former acquaintance, and suggestions for how to forcibly terminate this fuck.
+      
+Special thanks to the Graph Transformation Department at the University of York and the LaTeX Division  
+of the now-defunct Leeds office of Imagination Technologies for funding and empowering this research,  
+in return requesting only that no one involved ever return to either city.    
+
+
+
 ## Definition:
   
 <details>
 <summary>JACK</summary>
+  
+Under the standard model, we consider four fundamental interactions between matter:  
+
+
 Let **C** be a collection of particles, neuroses, obscure samurai lore, and math books.  
 Consider a universe **U** which not only allows trash confluence object Graham to exist
 but rewards him for his expensive hobby of drawing graphs.  
@@ -59,4 +85,7 @@ We have included an [example excerpt here](futuremathspaper.md).
 
 **TBC** oh god do not let me forget to finish this    
   
-
+  
+  
+  
+## Bibliography
