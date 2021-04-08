@@ -108,7 +108,7 @@ In conclusion: reading through this paper ensures the reader has certainly aged 
 ## Methodology
 We gathered data from the University of York, University of Oxford,
 and all local Wetherspoons and McDonalds establishments.
-Analysis focused on trneds in local cheese consumption, records of eldritch algebaraic texts disappearing, 
+Analysis focused on trends in local cheese consumption, records of eldritch algebraic texts disappearing, 
 and reports of cringe being observed late into the night.  
 
 Experiments were conducted in various forms of inebriation in order to control for bias.
