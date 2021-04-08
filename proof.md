@@ -33,7 +33,7 @@ Let f be a morphism between JACK and **O**.
 **O** is also the fifteenth letter of the alphabet.    
 
 We look to JACK's formative years; a deep dive into his previous social media **|S|**  
-( **|S|** = `{ friend | !real(friend) && posts_shite(friend) }` )  
+<!-- ( **|S|** = `{ friend | !real(friend) && posts_shite(friend) }` )  -->
 reveals JACK was only capable of understanding life through Minecraft constructions.    
 
 We must then construct a finite state automaton to accept the language encoded into his psyche, given below:  
@@ -45,7 +45,9 @@ The automaton of scholarly states (or ASS for short):
 <!-- ![i want you to know i read graphviz documentation for this](graph.svg "omnomchomsky") -->
 </details>
   
-The implications are immediately obvious, and a reduced graph has been included for the reader's convenience.  
+The implications are immediately obvious.  
+A reduced graph resulting from row echelon reduction has nevertheless been included for the reader's convenience.  
+  
 <details>
 <summary> Simplified state machine </summary>
 <img title="the alphabet" alt="and then i failed mfcs" src="fsa.svg">
@@ -56,4 +58,5 @@ As such, JACK's entire academic career has been encoded into this ASS.
 We have included an [example excerpt here](futuremathspaper.md).    
 
 **TBC** oh god do not let me forget to finish this    
+  
 
