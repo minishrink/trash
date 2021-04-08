@@ -2,13 +2,13 @@ digraph academic_neural_net {
 	graph [rankdir=LR,
 		size="10,10"
 	];
-	node [style=rounded,shape=ellipse];
-	Jack	 [shape=star];
-	Sam	 [shape=ellipse];
+	node     [style=rounded,shape=ellipse];
+	Jack	   [shape=star];
+	Sam	     [shape=ellipse];
 	Graham_unfortunately	 [shape=ellipse];
 	Graham_again_somehow	 [shape=ellipse];
 	<unintelligible_screams_0xdeadb00b>	 [shape=ellipse];
-	Tom	 [shape=ellipse];
+	Tom	     [shape=ellipse];
 	Agathe	 [shape=ellipse];
 	Detlef	 [shape=ellipse];
 
@@ -16,7 +16,7 @@ digraph academic_neural_net {
 	Jack -> Sam	   [label="i told u im the normal one"];
 	Jack -> Graham_unfortunately	 [label="an evening of graph lectures! what could possibly go wrong?!"];
 	Jack -> Graham_again_somehow	 [label="...i deserve this. i chose this."];
-	Jack -> Agathe [label="so there i was, knuckle-deep in Gödel, Escher, and also Bach, when all of a sudden..."];
+	Jack -> Agathe [label="i've read all the greats (Gödel, Escher, Runciman, etc). i haven't slept in 83 days. i am so close to seeing and thus fighting god."];
 	Jack -> <unintelligible_screams_0xdeadb00b>	 [label="oh god fuck why are you like this and when will you stop"];
 	Jack -> Tom	   [label="thank u 4 being normal despite doing the same degree"];
 	Jack -> Detlef [label="i can no longer bear to suck this gp2"];
@@ -30,7 +30,7 @@ digraph academic_neural_net {
 	Graham_unfortunately -> Jack	 [label=gbkshakegooseshitemotherfukerdropkickboooooooooiiiiiiicurryshitpantstaxevasiongraphgrammarcreosotetrololololgetrekt];
 	Graham_unfortunately -> Graham_unfortunately	 [label=luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuut];
 	Graham_unfortunately -> Graham_again_somehow	 [label="mmmm, mirchiz..."];
-	Graham_unfortunately -> <unintelligible_screams_0xdeadb00b>	 [label="what if i encouraged ur worst aspects haha jklol... unless???"];
+	Graham_unfortunately -> <unintelligible_screams_0xdeadb00b>	 [label="what if i encouraged ur worst aspects and impulses and fueled ur inner and outer boozegoblin haha jklol... unless???"];
 	Graham_unfortunately -> Detlef	 [label="me too wtf??"];
 
 	Graham_again_somehow -> Jack	 [label="pls turn to page 9928424 of my invoice for your share of the bills"];
@@ -48,7 +48,7 @@ digraph academic_neural_net {
 	Tom -> Jack [label="did we even need to have partners for ICAR??"];
 	Tom -> Graham_again_somehow [label="of course bash is a functional language!"];
 	Tom -> <unintelligible_screams_0xdeadb00b>	 [label="...actually never mind"];
-	Tom -> Tom [label="this restaurant, while pleasant, lured me under false pretences. no slugs nor lettuces found, 0/10"]
+	Tom -> Tom [label="good food, but false advertising. no slugs nor lettuces found, 0/10"]
 
 	Detlef -> Jack	 [label="it's nice that you're indulging in some extracurricular activities but I DO have a gp2 to finish you know..."];
 	Detlef -> Graham_unfortunately	 [label="i thought you were dead"];
@@ -56,4 +56,5 @@ digraph academic_neural_net {
 
 	Pooh -> Jack	 [label="<immediately claws out eyeballs>"];
 	Pooh -> Pooh   [label="im so perfect"];
+	Tom  -> Pooh   [label="ur the only motherfucker that gets me."]
 }
