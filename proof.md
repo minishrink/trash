@@ -12,7 +12,7 @@ shunning sunlight, and subsisting off algebraic texts.
   
 
 In this paper, we hypothesise the existence of such a creature by encapsulating this entity in a category,  
-using the Phat-Bastarde<sub>[i](#link)</sub> lemma to define morphisms between this category  
+using the Phat-Bastarde<sup>[i](#link)</sup> lemma to define morphisms between this category  
 and the cosmic unfairness of a world that would not only allow but necessitate such a wretched creature exist at all.  
   
 
