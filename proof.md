@@ -2,7 +2,7 @@
 # CARD
     
 ---
-
+  
 ## Abstract
 
 It is self-evident that, given a space of sufficient dimension
@@ -11,9 +11,9 @@ there will necessarily exist a [[cryptid]] living in these facilities,
 shunning sunlight, and subsisting off algebraic texts [1].
   
 
-In this paper, we hypothesise the existence of such a creature by encapsulating this entity in a category,  
-using the Phat-Bastarde<sup>[i](#link)</sup> lemma to define morphisms between this category  
-and the cosmic unfairness of a world that would not only allow but necessitate such a wretched creature exist at all.  
+In this paper, we prove the existence of such a creature and define it as a category,  
+using the [Fåt-Bastærde functor](https://www.fatbastard.com/product/chardonnay/) to map it to a representation  
+of the cosmic unfairness of a world that would not only allow but necessitate such a wretched creature exist at all.  
   
 
 Surprising results about the nature of the beast will be explored,  
@@ -21,21 +21,29 @@ finishing off with wise words from a former acquaintance, and suggestions for ho
       
 Special thanks to the Graph Transformation Department at the University of York [3] and the LaTeX Division  
 of the now-defunct Leeds office of Imagination Technologies for funding and empowering this research,  
-in return requesting only that no one involved ever return to either city.    
-
-
+in return requesting only that no one involved ever return to either city.  
+    
+## Methodology
+We analysed trends in local cheese consumption, records of eldritch algebaraic texts disappearing,  
+and rumours of dark fantasy explorations and potential discordian rites being performed late into the night.  
+All
+No animals were harmed in the course of this study, 
+though all colleagues involved in peer-review reported receiving 2d4 psychic damage.  
+    
 ## Background: Category Theory
 <details>
-<summary>First, a primer on basic concepts in category theory.</summary>  
+<summary>First, a primer on basic concepts in category theory.</summary>    
 <img title="deathiscoming"
      alt="a real pussy wagon, if you will. maybe you shouldn't." 
-     style="max-height: 50%; max-width: 50%;"
+     style="max-height: 30%; max-width: 30%;"
      src="pooh-3.jpg"
 >
+    
+Now you have a master's in category theory.  
 </details>
 
-## Def: JACK
-  
+## Definition: JACK
+
 <details>
 <summary>Definition</summary>
   
@@ -52,23 +60,25 @@ Finally, we take the highest alphabetical grade achieved in GRAT, which is **T**
 Then the entity known as JACK has been defined.  
 </details>    
 
+## Some surprising results
+
 ## Theorem: JACK is 24 years old
     
 ## Proof:
     
 We define JACK as a category `Cat(J)`, whose objects are the pages of the many books he reads.  
-The morphisms between them are described as below:    
+The functors between them are described as below:    
 
 ---
 
 The algebra of the Octonions **O** is a vector space of dimension 8 over **R**.  
 Moreover, `8 * 3 = 24`    
 
-Let f be a morphism between JACK and **O**.  
-**O** is also the fifteenth letter of the alphabet.    
+Let F be a functor between JACK and **O**.  
+**O** is also the fifteenth letter of the alphabet, so we look to JACK's formative years.  
 
-We look to JACK's formative years; a deep dive into his previous social media **|S|**  
-<!-- ( **|S|** = `{ friend | !real(friend) && posts_shite(friend) }` )  -->
+Following a deep dive into his previous social media **|S|**  
+( **|S|** being a category containing Club Penguin and a 
 reveals JACK was only capable of understanding life through Minecraft constructions.    
 
 We must then construct a finite state automaton to accept the language encoded into his psyche, given below:  
