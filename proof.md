@@ -7,21 +7,21 @@
 
 It is self-evident that, given a space of sufficient dimension
 such that there exists both a library and fatfucking facilities,
-we can prove the existence and presence of a cryptid **C** living in these facilities,
-shunning sunlight, and subsisting off algebraic texts <sup>[1](#bibliography)</sup>.
+we can prove the existence and presence of cryptid objects living in these facilities,
+marked by their shunning of sunlight, and their subsistence off of algebraic texts <sup>[1](#bibliography)</sup>.
   
 
-In this paper, we use [sophisticated graph transformations](http://www.jflap.org/)
-using the [Fåt-Bastærde lemma](https://www.fatbastard.com/product/chardonnay/)
-to map it to a universe **U** which not only enables but also rewards the existence of
-garbage confluent objects <sup>[2](#bibliography)</sup>.  
+In this paper, we apply [sophisticated graph transformations](http://www.jflap.org/) to map a representation
+of the aforementioned cosmic horror to a universe which not only enables but also rewards the existence of
+garbage confluent objects <sup>[3](#bibliography)</sup>.  
   
 
 Exploratory results about the nature of this phenomenon will be presented,
-finishing with proposed strategies for its immediate termination.  
+finishing with proposed strategies for its immediate termination.
       
-Special thanks to the Graph Transformation Department at the University of York [3] and the LaTeX Division
-of the now-defunct Leeds office of Imagination Technologies for funding and empowering this research,
+Special thanks to the Graph Transformation Department at the University of York [3](#bibliography)
+and the LaTeX Division of the now-defunct Leeds office of Imagination Technologies
+for funding and empowering this research,
 in return requesting only that no one involved ever return to the city.  
     
 ---
@@ -64,7 +64,7 @@ Then the entity known as JACK has been defined.
     
 ## Proof:
     
-We define JACK as a category `Cat(J)`, whose objects are the pages of the many books he reads.  
+We define JACK as a category `Cat(J)`, whose objects are the pages of the many books he reads. 
 The functors between them are described as below:    
 
 ---
@@ -99,6 +99,7 @@ In fact, this automaton not only accepts JACK's current literary intake but also
 As such, JACK's entire academic career has been encoded into this ASS.  
 We have included an [example excerpt here](futuremathspaper.md).    
 
+[Tüuürtle Bæ lemma](https://theworldnews.net/gb-news/what-you-can-buy-for-1p-and-2p-as-the-government-confirms-the-coins-are-here-to-stay)
 **TBC** oh god do not let me forget to finish this    
   
   
