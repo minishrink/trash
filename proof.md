@@ -14,15 +14,15 @@ shunning sunlight, and subsisting off algebraic texts <sup>[1](#bibliography)</s
 In this paper, we use [sophisticated graph transformations](http://www.jflap.org/)
 using the [Fåt-Bastærde lemma](https://www.fatbastard.com/product/chardonnay/)
 to map it to a universe **U** which not only enables but also rewards the existence of
-[garbage confluent objects](https://gjcampbell.co.uk)<sup>[2](#bibliography)</sup>.  
+garbage confluent objects <sup>[2](#bibliography)</sup>.  
   
 
-Exploratory results about the nature of the beast will be presented,
-finishing with proposed strategies for its immediate termination.
+Exploratory results about the nature of this phenomenon will be presented,
+finishing with proposed strategies for its immediate termination.  
       
 Special thanks to the Graph Transformation Department at the University of York [3] and the LaTeX Division
 of the now-defunct Leeds office of Imagination Technologies for funding and empowering this research,
-in return requesting only that no one involved ever return to either city.  
+in return requesting only that no one involved ever return to the city.  
     
 ---
     
@@ -44,10 +44,15 @@ Now you have a master's in category theory.
 <summary>Definition</summary>
   
 Recall the category **C** of cryptids and their morphisms.
-It is immediately clear that any such accommodating universe **U** has property **N** for *no god*.
-A concatenation of this category **C** 
-Finally, we take the highest alphabetical grade achieved in GRAT, which is **T**, and we have  
-`CUNT`.  Applying a cryptographic transformation yields  
+It is immediately clear that no such accommodating universe **U** could possibly entail a god,
+so we denote this property of no god **N** for *no god*.
+Using the [most sophisticated lexical analysis](http://jackromo.com/2019/Improving-the-GP2-Compiler.pdf) devised,
+we apply transformation **T**
+(the highest known grade achieved for [any PhD thesis](http://etheses.whiterose.ac.uk/12586/))
+to yield  
+
+`CUNT`.  
+Employ a little quantum decryption:  
 `CUNT mod 69 === JACK`.  
 Then the entity known as JACK has been defined.  
 </details>    
