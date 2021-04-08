@@ -24,11 +24,20 @@ of the now-defunct Leeds office of Imagination Technologies for funding and empo
 in return requesting only that no one involved ever return to either city.    
 
 
+## Background: Category Theory
+<details>
+<summary>First, a primer on basic concepts in category theory.</summary>  
+<img title="deathiscoming"
+     alt="a real pussy wagon, if you will. maybe you shouldn't." 
+     style="max-height: 50%; max-width: 50%;"
+     src="pooh-3.jpg"
+>
+</details>
 
-## Definition:
+## Def: JACK
   
 <details>
-<summary>JACK</summary>
+<summary>Definition</summary>
   
 Under the standard model, we consider four fundamental interactions between matter:  
 
