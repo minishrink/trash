@@ -5,6 +5,8 @@
 
 ## Definition:
   
+<details>
+<summary>JACK</summary>
 Let **C** be a collection of particles, neuroses, obscure samurai lore, and math books.  
 Consider a universe **U** which not only allows trash confluence object Graham to exist
 but rewards him for his expensive hobby of drawing graphs.  
@@ -13,6 +15,7 @@ Finally, we take the highest alphabetical grade achieved in GRAT, which is **T**
 `CUNT`.  Applying a cryptographic transformation yields  
 `CUNT mod 69 === JACK`.  
 Then the entity known as JACK has been defined.  
+</details>    
 
 ## Theorem: JACK is 24 years old
     
