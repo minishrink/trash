@@ -13,13 +13,13 @@ marked by their shunning of sunlight, and their subsistence off of algebraic tex
 
 In this paper, we apply [sophisticated graph transformations](http://www.jflap.org/) to map a representation
 of the aforementioned cosmic horror to a universe which not only enables but also rewards the existence of
-garbage confluent objects <sup>[3](#bibliography)</sup>.  
+garbage confluent objects <sup>[2](#bibliography)</sup>.  
   
 
 Exploratory results about the nature of this phenomenon will be presented,
 finishing with proposed strategies for its immediate termination.
       
-Special thanks to the Graph Transformation Department at the University of York [3](#bibliography)
+Special thanks to the Graph Transformation Department at the University of York <sup>[3](#bibliography)</sup>
 and the LaTeX Division of the now-defunct Leeds office of Imagination Technologies
 for funding and empowering this research,
 in return requesting only that no one involved ever return to the city.  
@@ -64,25 +64,25 @@ Then the entity known as JACK has been defined.
     
 ## Proof:
     
-We define JACK as a category `Cat(J)`, whose objects are the pages of the many books he reads. 
-The functors between them are described as below:    
+We define JACK as a category `Cat(J)`, whose objects are the many souls he has devoured in his quest for
+mathematical nirvana.  
 
----
 
 The algebra of the Octonions **O** is a vector space of dimension 8 over **R**.  
-Moreover, `8 * 3 = 24`    
+Moreover, `8 * 3 = 24`.
+We could end the proof here but had to hit a minimum word count to be accepted into *Nature*.
 
 Let F be a functor between JACK and **O**.  
 **O** is also the fifteenth letter of the alphabet, so we look to JACK's formative years.  
 
-Following a deep dive into his previous social media **|S|**  
-( **|S|** being a category containing Club Penguin and a 
+Following a deep dive into his previous social media
 reveals JACK was only capable of understanding life through Minecraft constructions.    
 
 We must then construct a finite state automaton to accept the language encoded into his psyche, given below:  
-The automaton of scholarly states (or ASS for short):  
 <details>
-<summary> automaton of scholarly states </summary>
+<summary>
+Automaton of scholarly states, or **ASS**  
+</summary>
 <img title="omnomchomsky" alt="i read graphviz documentation for this" src="graph.svg">
   
 </details>
@@ -97,11 +97,12 @@ A reduced graph resulting from row echelon reduction has nevertheless been inclu
 
 In fact, this automaton not only accepts JACK's current literary intake but also all future reading he will ever do.
 As such, JACK's entire academic career has been encoded into this ASS.  
-We have included an [example excerpt here](futuremathspaper.md).    
+Using the [Tüuürtle Bæ lemma](https://theworldnews.net/gb-news/what-you-can-buy-for-1p-and-2p-as-the-government-confirms-the-coins-are-here-to-stay), we were able to generate an [example excerpt here](futuremathspaper.md).    
 
-[Tüuürtle Bæ lemma](https://theworldnews.net/gb-news/what-you-can-buy-for-1p-and-2p-as-the-government-confirms-the-coins-are-here-to-stay)
-**TBC** oh god do not let me forget to finish this    
+
   
+Having read through this paper, the reader is sure to have aged to at least 24,
+and since JACK is currently reading this, quod erat fucked.
   
 ---
 
@@ -115,7 +116,7 @@ and reports of cringe being observed late into the night.
 Experiments were conducted in various forms of inebriation in order to control for bias.
 No animals were harmed in the course of this study, 
 though all colleagues involved in peer-review reported receiving 2d4 psychic damage.  
-    
+All data analysis was performed using [this API](https://api.jquery.com/).  
     
 ---
 
